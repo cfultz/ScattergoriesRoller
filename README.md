@@ -31,7 +31,7 @@ A step by step series of examples that tell you have to get a development env ru
 
 * **Caleb Fultz** - *Developer* - [cfultz](https://github.com/cfultz)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/cfultz/ScattergoriesRoller/contributors) who participated in this project.
 
 ## License
 
