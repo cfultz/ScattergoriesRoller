@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1096737337102",
+    "firebase_url": "https://scattergoriesroller.firebaseio.com",
+    "project_id": "scattergoriesroller",
+    "storage_bucket": "scattergoriesroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096737337102:android:2930ce58206d08ee",
+        "android_client_info": {
+          "package_name": "info.sipnet.scattergoriesroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096737337102-i1jqe0khdrhehsc0gcd7cg8d03npo830.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.sipnet.scattergoriesroller",
+            "certificate_hash": "8dd77e5fd08afadf2d37a91c1ba9510583cf9b36"
+          }
+        },
+        {
+          "client_id": "1096737337102-2k2f3ck57ajkberelne7747nvg1c8a71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzSDMXSLeUawMG0fuEieaX24Z5JMphvzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096737337102-2k2f3ck57ajkberelne7747nvg1c8a71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
