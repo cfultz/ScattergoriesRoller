@@ -11,12 +11,6 @@ Import into Android Studio through VCS Checkout
 
 Android Studio
 
-
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
 ## Download on Google Play
 
 ![Google Play](https://i.imgur.com/mylyjAD.png "Google Play")
