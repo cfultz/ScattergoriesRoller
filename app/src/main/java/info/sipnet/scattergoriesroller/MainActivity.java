@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        interstitialBuilder = InterstitialBuilder.create().setAdId(AdId.custom("int-202359"))
+        interstitialBuilder = InterstitialBuilder.create().setAdId(AdId.custom("AppBrainID"))
                 .setFinishOnExit(this).preload(this);
 
 
